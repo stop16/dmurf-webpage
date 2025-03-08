@@ -17,7 +17,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
+    ("DMU", "https://www.dongyang.ac.kr/dmu/index.do"),
     ("Python.org", "https://www.python.org/"),
     ("Jinja2", "https://palletsprojects.com/p/jinja/"),
     ("You can modify those links in your config file", "#"),
@@ -25,8 +25,7 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("Instagram", "https://www.instagram.com/craft_by_muse"),
 )
 
 DEFAULT_PAGINATION = 10
